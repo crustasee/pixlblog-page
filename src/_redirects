@@ -1,0 +1,3 @@
+# Cloudflare Redirects
+# Format: /source /target [code]
+# Example: /old-slug /new-slug 301
