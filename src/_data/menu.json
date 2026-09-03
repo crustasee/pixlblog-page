@@ -1,0 +1,15 @@
+[
+  {
+    "label": "Me",
+    "url": "/about"
+  },
+  {
+    "label": "Tag",
+    "url": "/tags"
+  },
+  {
+    "label": "Vault",
+    "url": "https://pixlape.vercel.app",
+    "newTab": true
+  }
+]
