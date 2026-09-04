@@ -2,7 +2,7 @@
 title: "IntelliJ IDEA vs VS Code"
 description: "Perbedaan IntelliJ IDEA dan VS Code adalah dua konsep IDE yang berbeda"
 date: 2026-06-20T10:00
-thumb: "https://res.cloudinary.com/lbovk2lu/image/upload/v1788328627/retroterm.jpg"
+thumb: "https://res.cloudinary.com/lbovk2lu/image/upload/v1788531607/intelvscodes.jpg"
 tags: 
     - tips
     - traveling
@@ -32,8 +32,9 @@ Bagi *developer* yang menangani aplikasi skala besar atau membutuhkan alat bantu
 
 - **Kemudahan Modifikasi Kode *Native* (Java/Kotlin):** Jika suatu saat aplikasi Flutter Anda memerlukan fitur spesifik Android yang tidak tersedia di Flutter (misalnya mengakses *hardware* tingkat rendah atau *bluetooth* khusus), Anda perlu menulis kode *native* (Kotlin/Java). IntelliJ IDEA memiliki dukungan absolut untuk bahasa-bahasa ini langsung di dalam satu ruang kerja.
 
-![Ilustrasi Perbedaan Antara IntelliJ IDEA dan VS Code](https://res.cloudinary.com/lbovk2lu/image/upload/v1788486803/Screenshot_2026-09-04_085212.png)
-*▣ UI IntelliJ IDEA*
+
+![UIIntelliJIDEA](https://res.cloudinary.com/lbovk2lu/image/upload/v1788486803/Screenshot_2026-09-04_085212.png)
+
 
 ### Kelebihan VS Code untuk Proyek Flutter
 
