@@ -1,7 +1,7 @@
 ---
 title: "Sejarah pameran seni galeri"
 date: 2026-12-04T08:36
-thumb: "https://res.cloudinary.com/lbovk2lu/image/upload/v1788320346/Aesthetic_Tokyo_By_Mad_Dog_Jones_Desktop.jpg"
+thumb: "https://res.cloudinary.com/lbovk2lu/image/upload/v1788484985/Screenshot_2026-09-04_082117.png"
 tags: 
     - tips
     - sejarah
