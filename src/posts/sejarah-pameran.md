@@ -83,7 +83,8 @@ Lukisan Manet memicu skandal besar di Paris bukan karena tekniknya yang kasar, t
 
 > **Dampak Sejarah:** Meski awalnya dipenuhi cemoohan, *Salon des Refusés* secara tidak sengaja menghancurkan monopoli Akademi. Peristiwa ini membuktikan bahwa seniman bisa memamerkan karya dan menemukan audiens mereka sendiri tanpa harus tunduk pada institusi negara. Ini adalah momen krusial yang memuluskan jalan bagi pameran-pameran independen berikutnya dan melahirkan gerakan seni modern seperti **Impresionisme**.
 
-
+![Ilustrasi Pameran Seni](https://res.cloudinary.com/lbovk2lu/image/upload/v1788485748/Hubert-Robert-The-Grande-Galerie-of-the-Louvre-1801.webp)
+**Hubert Robert - The Grande Galerie of the Louvre (1801)**
 
 Secara singkat: Konsep pameran seni sudah mulai terbentuk pada abad ke-17, tetapi pada masa itu, sistemnya **belum mengenal profesi kurator** seperti yang kita pahami sekarang. Pengatur pameran pada masa itu dan kurator modern memiliki peran yang sama sekali berbeda.
 
