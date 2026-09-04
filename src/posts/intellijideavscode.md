@@ -32,6 +32,9 @@ Bagi *developer* yang menangani aplikasi skala besar atau membutuhkan alat bantu
 
 - **Kemudahan Modifikasi Kode *Native* (Java/Kotlin):** Jika suatu saat aplikasi Flutter Anda memerlukan fitur spesifik Android yang tidak tersedia di Flutter (misalnya mengakses *hardware* tingkat rendah atau *bluetooth* khusus), Anda perlu menulis kode *native* (Kotlin/Java). IntelliJ IDEA memiliki dukungan absolut untuk bahasa-bahasa ini langsung di dalam satu ruang kerja.
 
+![Ilustrasi Perbedaan Antara IntelliJ IDEA dan VS Code](https://res.cloudinary.com/lbovk2lu/image/upload/v1788486803/Screenshot_2026-09-04_085212.png)
+*▣ UI IntelliJ IDEA*
+
 ### Kelebihan VS Code untuk Proyek Flutter
 
 VS Code sering kali menjadi pilihan favorit *front-end developer* atau desainer UI/UX yang bertransisi ke pemrograman, karena pendekatannya yang lebih modern dan gesit:
